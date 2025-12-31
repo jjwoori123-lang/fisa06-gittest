@@ -42,6 +42,6 @@ print(hello)
 - 이미지링크 ![깨졌을때 설명](실제 연결할 이미지 주소)
 ![네이버로 가기](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1TdOV3.img)
 
-![신짱구](https://github.com/YeonjiKim0316/fisa06-gittest/blob/main/%EC%8B%A0%EC%A7%B1%EA%B5%AC.png)
+![신짱구](https://github.com/jjwoori123-lang/fisa06-gittest/blob/main/%EC%8B%A0%EC%A7%B1%EA%B5%AC.png)
 
 
