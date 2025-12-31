@@ -1,11 +1,47 @@
-hello
+new file
+add new line
 
-test hello
+# 제목1
+## 제목2
+### 제목3
+---
+수평선
+***
+___
 
-# fisa06-gittest
+###### 제목6
+####### 제목7
 
-새로 쓴 내용입니다.
+**진하게**
+__진하게__
+** 진하게 **
 
-새로 쓴 내용입니다 2.
+~~취소~~
 
-아 좀 빨리 끝내줘라 이거 쓸모도 없는데.
+***진하게***
+
+* 목록1
+* 목록2
+    * 목록1-1
+        * 목록1-1-2
+
+1. 목록1
+2. 목록2
+    1. 목록1-1
+        1. 목록1-1-2   
+
+print(hello)
+```
+print(hello)
+print(hello)
+```
+
+- 바로가기 [보이는 내용](실제 연결할 링크)
+[네이버로 가기](http://naver.com)
+
+- 이미지링크 ![깨졌을때 설명](실제 연결할 이미지 주소)
+![네이버로 가기](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1TdOV3.img)
+
+![신짱구](https://github.com/YeonjiKim0316/fisa06-gittest/blob/main/%EC%8B%A0%EC%A7%B1%EA%B5%AC.png)
+
+
