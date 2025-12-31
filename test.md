@@ -1,20 +1,45 @@
-# 제목 1
-## 제목 2
-### 제목 3
+new file
+add new line
 
+# 제목1
+## 제목2
+### 제목3
 ---
----
----
+수평선
+***
+___
 
-###### 제목 6
-######## 제목 7
+###### 제목6
+####### 제목7
 
-** 진하게 **
+**진하게**
 __진하게__
-** 진하게 ** 
+** 진하게 **
+
 ~~취소~~
 
-## 바로가기 [보이는 내용] (실제 연결할 내용)
+***진하게***
 
+* 목록1
+* 목록2
+    * 목록1-1
+        * 목록1-1-2
+
+1. 목록1
+2. 목록2
+    1. 목록1-1
+        1. 목록1-1-2   
+
+print(hello)
+```
+print(hello)
+print(hello)
+```
+
+- 바로가기 [보이는 내용](실제 연결할 링크)
 [네이버로 가기](http://naver.com)
-[네이버로 가기](http://naver.com)
+
+- 이미지링크 ![깨졌을때 설명](실제 연결할 이미지 주소)
+![네이버로 가기](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1TdOV3.img)
+
+![신짱구](https://github.com/jjwoori123-lang/fisa06-gittest/blob/main/%EC%A7%B1%EA%B5%AC.jpeg)
