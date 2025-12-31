@@ -39,7 +39,7 @@ print(hello)
 - 바로가기 [보이는 내용](실제 연결할 링크)
 [네이버로 가기](http://naver.com)
 
-- 이미지링크 ![깨졌을때 설명](실제 연결할 이미지 주소)
+- 이미지 링크 ![깨졌을 때 설명](실제 연결할 이미지 주소)  
 ![네이버로 가기](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1TdOV3.img)
 
 ![신짱구](https://github.com/jjwoori123-lang/fisa06-gittest/blob/main/%EC%A7%B1%EA%B5%AC.jpeg)
